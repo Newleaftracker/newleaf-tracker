@@ -1,0 +1,21 @@
+📂 newleaf-tracker/
+├── 📄 .gitignore
+├── 📄 LICENSE
+├── 📄 README.md
+├── 📄 manifest.json
+├── 📂 icons/
+│   ├── 🖼️ icon16.png
+│   ├── 🖼️ icon32.png
+│   ├── 🖼️ icon48.png
+│   └── 🖼️ icon128.png
+├── 📂 _locales/
+│   └── 📂 en/
+│       └── 📄 messages.json
+├── 📂 css/
+│   └── 📄 popup.css
+├── 📂 js/
+│   ├── 📄 background.js
+│   ├── 📄 content.js
+│   └── 📄 popup.js
+└── 📂 html/
+    └── 📄 popup.html
